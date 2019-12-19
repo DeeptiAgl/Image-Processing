@@ -1,2 +1,2 @@
 # Image-Processing
-Image Processing in using Python
+Image Processing using Python - Fetching digits from the image
